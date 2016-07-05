@@ -1,0 +1,17 @@
+childhandler.c
+childhandler.o
+isbuiltin.c
+isbuiltin.o
+ls.out
+main.c
+main.o
+makefile
+minishell
+minishell.h
+parsing.c
+parsing.o
+README.md
+redirect.c
+redirect.o
+runcommand.c
+runcommand.o

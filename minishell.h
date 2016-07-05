@@ -13,4 +13,9 @@ typedef struct bt_type{
 } BT_TYPE;
 
 void exec_command(char **arg);
+
+void child_handler(int signo);
+
+
+
 #endif /* MINISHELL_H_ */

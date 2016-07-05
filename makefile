@@ -1,4 +1,4 @@
-OBJS = main.o parsing.o isbuiltin.o runcommand.o
+OBJS = main.o parsing.o isbuiltin.o runcommand.o redirect.o childhandler.o
 SRCS = $(OBJS:.o=.c)
 
 #$(CC) = gcc
